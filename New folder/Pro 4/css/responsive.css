@@ -1,0 +1,88 @@
+@media screen and (max-width: 768px) {
+	.main-header{
+		width: 100%;
+	}
+	.header-left{
+	
+	width: 40%;
+	height: 60px;
+	float: left;
+
+}
+	.header-left a{
+	color: #000000;
+	padding: 5px 10px;
+	display: inline-block;
+	text-decoration: none;
+}
+.header-left span{
+	padding: 10px 5px;
+	letter-spacing: 5px;
+	}
+	.header-right{
+	
+	width: 60%;
+	height: 50px;
+	float: left;
+}
+	.header-right a{
+	float: right;
+	text-decoration: none;
+	padding: 3px 7px;
+	letter-spacing: 5px;
+	color: #5D6D7E;
+}
+.body-area img{
+	width: 100%;
+	}
+	.body-area span{
+	position: relative;
+	top: 158px;
+	left: 160px;
+	color: white;
+	font-size: 35px;
+}
+.body-area span.br{
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	position: relative;
+	top: 158px;
+	left: 140px;
+	padding: 14px;
+}
+.project-area{
+	
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+}
+.summer-house{
+	
+	width: 50%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	position: relative;
+}
+.brick-house{
+	
+	width: 50%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+}
+.brick-house span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 365px;
+	left: 252px;
+}
+.about{
+	height: auto;
+	padding: 2px;
+}
+}
